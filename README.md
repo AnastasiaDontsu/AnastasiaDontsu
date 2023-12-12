@@ -6,10 +6,8 @@
 - 📫 How to reach me **anastasiia.dontsu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/%D0%B0nastasia-dontsu-4752a6297/)
-
-
 <p align="left">
+<a href="https://www.linkedin.com/in/%D0%B0nastasia-dontsu-4752a6297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="аnastasia dontsu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anastasiadontsu&show_icons=true&locale=en" alt="anastasiadontsu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anastasiadontsu&" alt="anastasiadontsu" /></p>
-
 
