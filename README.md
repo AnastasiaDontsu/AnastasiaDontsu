@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anastasiadontsu&label=Profile%20views&color=0e75b6&style=flat" alt="anastasiadontsu" /> </p>
 
-- 👨‍💻 I’m currently working on **technology-blog**
+- 👨‍💻 I’m currently working on **popular-techno-news**
 
 - 📫 How to reach me **anastasiia.dontsu@gmail.com**
 
